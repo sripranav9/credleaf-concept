@@ -1,0 +1,18 @@
+Custom License for Credleaf
+
+Copyright © 2025 Credleaf Team
+
+This repository contains original content related to the Credleaf project, including but not limited to business model descriptions, technical architecture, written documentation, and branding concepts.
+
+You may:
+- View, read, and share this repository non-commercially **with attribution**
+- Use this work as inspiration for academic or research purposes **with credit**
+
+You may NOT:
+- Copy, reuse, or adapt any part of this project for **commercial use**
+- Publish derivative works or launch products based on Credleaf without **written permission**
+- Use the name "Credleaf" or any associated branding, visual identity, or content for any purpose without **explicit consent**
+
+This project is shared for informational and educational purposes only. All rights reserved.
+
+For licensing inquiries or collaboration requests, contact: [your-email@example.com]
