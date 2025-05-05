@@ -1,3 +1,5 @@
+_This is a conceptual student project created as part of a course at NYU Abu Dhabi. Not intended for commercial use at this time._
+
 # Credleaf 🌿
 
 **Credleaf** is a B2B SaaS concept that turns everyday business spending into verified climate action. Designed for mid-sized companies in emerging ESG markets like the UAE, Credleaf automates carbon offsetting by linking corporate expenses to certified green vendors. Verified micro carbon credits are transparently recorded on blockchain, enabling real-time ESG reporting and giving companies a competitive edge without manual overhead.
